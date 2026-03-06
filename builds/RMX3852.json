@@ -1,0 +1,30 @@
+{
+  "response": [
+    {
+      "maintainer": "A4",
+      "currently_maintained": true,
+      "oem": "OnePlus",
+      "device": "Gt Neo 6",
+      "filename": "",
+      "download": "",
+      "timestamp": 1770830195,
+      "md5": "dcb663201ca4bb4263b31647298a0c94",
+      "sha256": "da1687d312894dab3bf136d4c08d6a0c6619176db208b2b54981b7d691be3f26",
+      "size": 4155305279,
+      "version": "11.6.2",
+      "buildtype": "userdebug",
+      "forum": "https://reinadump.t.me",
+      "firmware": "",
+      "paypal": "",
+      "github": "Yugugyiugiyguiygugyyg",
+      "initial_installation_images": [
+        "boot",
+        "dtbo",
+        "init_boot",
+        "vbmeta",
+        "vendor_boot"
+        ],
+      "extra_images": []
+    }
+  ]
+}
